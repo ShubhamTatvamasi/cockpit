@@ -2,8 +2,7 @@
 
 install cockpit:
 ```bash
-sudo apt install cockpit
-sudo apt install cockpit-machines
+sudo apt install cockpit cockpit-machines
 ```
 
 install virt-manager:
