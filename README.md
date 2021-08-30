@@ -2,5 +2,5 @@
 
 install cockpit:
 ```bash
-sudo apt install cockpit cockpit-machines
+sudo apt install -y cockpit cockpit-machines
 ```
